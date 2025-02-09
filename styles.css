@@ -30,5 +30,6 @@ a, .home {
 }
 
 .home {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
